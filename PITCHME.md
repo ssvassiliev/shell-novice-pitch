@@ -2,14 +2,17 @@
 - How can I move around on my computer?
 - How can I see what files and directories I have?
 - How can I specify the location of a file or directory on my computer?
-
+---
 ## Objectives
 - Explain the similarities and differences between a file and a directory.
 - Translate an absolute path into a relative path and vice versa.
 - Construct absolute and relative paths that identify specific files and directories.
 - Demonstrate the use of tab completion, and explain its advantages.
 ---
-
+### The file system
+- Part of OS managing files and directories
+- Organizes data into files and direcories
+- Directories hold files and other directories
 ---
 ## Add Some Slide Candy
 
